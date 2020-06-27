@@ -11,7 +11,7 @@ Execute o commando `docker-compose up`.
 - Instale o AWS CLI: [veja aqui](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-install.html)
 - Configure o AWS CLI: rode o comando `aws configure`
 - Instale o Docker-Machine: [Manual](https://docs.docker.com/machine/install-machine/)
-- Crie um servidor EC2 na AWS: 
+- Crie um servidor EC2 na AWS (isso pode demorar um tempo) 
   - `docker-machine create --driver amazonec2 NodeAWS01`
   Onde "NodeAWS01" é o nome da sua instância a ser criada na AWS.
 - Rode os comandos para utilizar a instância da AWS:
