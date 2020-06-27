@@ -1,0 +1,19 @@
+{
+  "name": "docker-project",
+  "version": "1.0.0",
+  "description": "Estudo de Docker e Docker-Compose para aplicação Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeavila/docker-project.git"
+  },
+  "author": "Alberto Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeavila/docker-project/issues"
+  },
+  "homepage": "https://github.com/zeavila/docker-project#readme"
+}
