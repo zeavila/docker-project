@@ -19,3 +19,5 @@ Execute o commando `docker-compose up`.
   - `eval $(docker-machine env NodeAWS01)`
 - Execute o comando `docker-compose up` para subir a sua aplicação na AWS.
 - Configure o seu Security Group para liberar a porta da sua aplicação.
+- Para voltar a utilizar comandos Docker na máquina local, execute o comando
+  - `eval $(docker-machine env -u)`
